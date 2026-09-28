@@ -1,2 +1,9 @@
-10.111.23.32
+[web_servers]
+10.111.23.32 
 10.111.23.77
+
+[db_servers]
+
+
+[file_servers]
+
